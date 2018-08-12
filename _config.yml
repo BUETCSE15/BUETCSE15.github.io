@@ -16,9 +16,9 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face.jpg # your photo
 author-name: Latif Siddiq Sunny
-about-author: # about author
+about-author: Working hard is important. But there is something that matters even more: believing in yourself # about author
 email: lsiddiqsunny@gmail.com # your email
-phone:  # your pnone number
+phone: N/A # your pnone number
 website: https://lsiddiqsunny.github.io # you website
 
 # Social link
@@ -30,7 +30,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 # Disqus
-discus_identifier: buetcse15 # add your discus identifier
+discus_identifier: https-buetcse15-github-io # add your discus identifier
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
