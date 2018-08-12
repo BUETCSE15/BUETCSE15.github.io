@@ -16,9 +16,9 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face.jpg # your photo
 author-name: Latif Siddiq Sunny
-about-author: Working hard is important. But there is something that matters even more: believing in yourself # about author
+about-author: "Working hard is important. But there is something that matters even more: believing in yourself" # about author
 email: lsiddiqsunny@gmail.com # your email
-phone: N/A # your pnone number
+phone: "N/A" # your pnone number
 website: https://lsiddiqsunny.github.io # you website
 
 # Social link
